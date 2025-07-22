@@ -58,8 +58,9 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mathesh-299/Mathesh-299/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Mathesh-299/Mathesh-299/main/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 
 ---
 

@@ -18,9 +18,9 @@
 
 ## 🚀 Projects
 
-- 🌿 **Turf Hub:** MERN stack turf booking platform with slot management and CRUD
-- 📘 **Smart Contact Book:** MERN app for managing contacts with search and CRUD
-- 🖥️ **MERN Portfolio:** Personal portfolio with dynamic project management
+- 🌿 **Turf Hub:** MERN stack turf booking platform with slot management and CRUD.
+- 📘 **Smart Contact Book:** MERN app for managing contacts with search and CRUD.
+- 🖥️ **MERN Portfolio:** Personal portfolio with dynamic project management.
 
 ---
 
@@ -55,13 +55,13 @@
   </a>
 </p>
 
-
 ---
 
-<p align="center">
-  ![snake gif](https://github.com/Mathesh-299/Mathesh-299/blob/output/github-snake-dark.svg)
-</p>
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mathesh-299/Mathesh-299/output/github-snake-dark.svg" alt="snake gif" />
+</p>
 
 ---
 

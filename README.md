@@ -3,16 +3,22 @@
 
 ---
 
-## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB" />
-  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=339933" />
-  <img src="https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express&color=000000" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248" />
-  <img src="https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=tailwind-css&color=38B2AC" />
-  <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&color=181717" />
+  <img src="https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933" />
+  <img src="https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=express&logoColor=white&color=000000" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248" />
+  <img src="https://img.shields.io/badge/ODM-Mongoose-informational?style=flat&logo=mongoose&logoColor=white&color=880000" />
+  <img src="https://img.shields.io/badge/Styling-TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=38B2AC" />
+  <img src="https://img.shields.io/badge/Version%20Control-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717" />
+  <img src="https://img.shields.io/badge/Package-NPM-informational?style=flat&logo=npm&logoColor=white&color=CB3837" />
+  <img src="https://img.shields.io/badge/Hosting-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=000000" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC" />
+  <img src="https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&logoColor=white&color=A8B9CC" />
+  <img src="https://img.shields.io/badge/Language-Java-informational?style=flat&logo=openjdk&logoColor=white&color=007396" />
 </p>
+
+
 
 ---
 

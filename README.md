@@ -45,8 +45,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://mathesh-stats.vercel.app/api?username=Mathesh-299&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://mathesh-stats.vercel.app/api/top-langs/?username=Mathesh-299&layout=compact&theme=radical" width="48%"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Mathesh-299&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathesh-299&layout=compact&theme=radical" width="48%"/> 
 </p>
 
 ---

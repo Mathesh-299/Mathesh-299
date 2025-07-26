@@ -71,7 +71,11 @@
   <a href="https://leetcode.com/u/matheshm29/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
+  <a href="https://portfolio-indol-theta-47.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
+
 
 ---
 

@@ -36,10 +36,10 @@
 
 ## 🚀 Projects
 
-- 🌿 **Turf Hub:** MERN stack turf booking platform with slot management and CRUD.
-- 📘 **Smart Contact Book:** MERN app for managing contacts with search and CRUD.
-- 🖥️ **MERN Portfolio:** Personal portfolio with dynamic project management.
-
+- 🌿 **Turf Hub:** MERN stack turf booking platform with slot management and full CRUD operations.
+- 📘 **Smart Contact Book:** MERN contact manager app with search, filters, and CRUD features.
+- 🖥️ **MERN Portfolio:** Personal portfolio with dynamic project management and admin editing.
+- 🔐 **Open-Source Auth System:** Secure authentication module built with Node.js, Express, MongoDB, JWT, bcrypt, and **email verification** using Nodemailer for user registration and login.
 ---
 
 ## 📊 GitHub Stats

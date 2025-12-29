@@ -40,14 +40,6 @@
 - 📘 **Smart Contact Book:** MERN contact manager app with search, filters, and CRUD features.
 - 🖥️ **MERN Portfolio:** Personal portfolio with dynamic project management and admin editing.
 - 🔐 **Open-Source Auth System:** Secure authentication module built with Node.js, Express, MongoDB, JWT, bcrypt, and **email verification** using Nodemailer for user registration and login.
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mathesh-299&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathesh-299&layout=compact&theme=radical" width="48%"/> 
-</p>
 
 ---
 

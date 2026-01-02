@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mathesh</h1>
 <h3 align="center">A Passionate MERN Stack Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mathesh-299&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
 ---
 
 ## 🛠 Tech Stack
@@ -22,24 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="35"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mathesh-299&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-</p>
-
----
-
-## 🧠 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathesh-299&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---

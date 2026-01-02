@@ -34,6 +34,22 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mathesh-299&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathesh-299&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ## 🚀 Projects
 
 - 🌿 **Turf Hub:** MERN stack turf booking platform with slot management and full CRUD operations.

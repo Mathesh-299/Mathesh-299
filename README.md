@@ -384,7 +384,7 @@ Currently exploring AI-integrated apps, real-time collaboration tools, and cloud
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35"/>
   </a>
   &nbsp;
-  <a href="https://portfolio-indol-theta-47.vercel.app/">
+  <a href="https://matheshmurugan.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="35"/>
   </a>
 

@@ -71,14 +71,19 @@ const mathesh = {
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Mathesh-299&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Mathesh's%20GitHub%20Stats&border_radius=12" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Mathesh-299&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mathesh-299&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Mathesh-299&theme=tokyonight&hide_border=true&ring=58a6ff&fire=ff9800&currStreakLabel=58a6ff" width="48%" />
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathesh-299&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&custom_title=Most%20Used%20Languages" width="38%"/>
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mathesh-299&theme=tokyonight&utcOffset=5.5" width="38%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathesh-299&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mathesh-299&theme=tokyonight" width="48%"/>
+
+  <br/><br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mathesh-299&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mathesh-299&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mathesh-299&theme=tokyonight" width="32%"/>
 
 </div>
 
@@ -88,7 +93,9 @@ const mathesh = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mathesh-299&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4" width="96%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mathesh-299&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" width="96%"/>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mathesh-299&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6&rank=B,C" width="96%"/>
 </div>
 
 ---
@@ -98,32 +105,79 @@ const mathesh = {
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="200"><strong>💻 Languages</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=c,java,js,ts&theme=dark" height="42"/>
-</td>
-</tr>
-<tr>
-<td align="center"><strong>🌐 Frontend</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind&theme=dark" height="42"/>
-</td>
-</tr>
-<tr>
-<td align="center"><strong>⚙️ Backend</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" height="42"/>
-</td>
-</tr>
-<tr>
-<td align="center"><strong>🔧 Tools & DevOps</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma&theme=dark" height="42"/>
-</td>
-</tr>
-</table>
+### 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+---
+
+### 🌐 Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+</p>
+
+---
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/bcrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge&logo=gmail&logoColor=white" />
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### 🔧 Tools, DevOps & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</p>
+
+---
+
+### 🤖 Currently Exploring
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 </div>
 

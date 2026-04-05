@@ -89,15 +89,6 @@ const mathesh = {
 
 ---
 
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mathesh-299&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
-</div>
-
----
-
 <!-- TECH STACK -->
 ## 🛠️ Tech Stack & Tools
 

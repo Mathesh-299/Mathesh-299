@@ -93,9 +93,7 @@ const mathesh = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mathesh-299&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" width="96%"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Mathesh-299&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6&rank=B,C" width="96%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mathesh-299&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 </div>
 
 ---

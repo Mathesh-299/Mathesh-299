@@ -21,7 +21,7 @@
   <!-- BADGES ROW 2 -->
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheshm29/)
   [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheshm2909@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-indol-theta-47.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://matheshmurugan.netlify.app/)
   [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/matheshm29/)
 </div>
 

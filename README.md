@@ -39,7 +39,7 @@ const mathesh = {
   name       : "Mathesh M",
   location   : "India 🇮🇳",
   role       : "Full Stack Developer (MERN)",
-  education  : "B.E. Computer Science",
+  education  : "B.Tech. Information Technology",
   experience : "Building production-grade apps",
 
   techStack  : {

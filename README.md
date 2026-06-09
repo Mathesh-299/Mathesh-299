@@ -174,7 +174,6 @@ const mathesh = {
 | **MongoDB & Mongoose** | `█████████████████░░░` 85% |
 | **DSA & Problem Solving** | `████████████████░░░░` 80% |
 | **System Design** | `████████████░░░░░░░░` 60% |
-| **Cloud & DevOps** | `████████████░░░░░░░░` 58% |
 
 </div>
 

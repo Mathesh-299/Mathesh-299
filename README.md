@@ -44,7 +44,7 @@ const mathesh = {
 
   techStack  : {
     languages  : ["JavaScript", "TypeScript", "Java", "C"],
-    frontend   : ["React", "Redux", "HTML5", "CSS3", "Tailwind"],
+    frontend   : ["React", "Redux", "HTML5", "CSS3", "Tailwind", "Next"],
     backend    : ["Node.js", "Express.js", "REST APIs"],
     database   : ["MongoDB", "MySQL"],
     devOps     : ["Git", "GitHub", "Vercel", "Render"],

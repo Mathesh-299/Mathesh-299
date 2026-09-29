@@ -83,6 +83,7 @@
 <!-- ==================================================================== -->
 
 <span id="about"></span>
+
 ## 🧑‍💻 About Me
 
 <div align="center">
@@ -190,6 +191,7 @@ const mathesh: DeveloperProfile = {
 <!-- ==================================================================== -->
 
 <span id="tech-stack"></span>
+
 ## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
@@ -218,7 +220,7 @@ const mathesh: DeveloperProfile = {
         </a>
       </td>
       <td width="50%" align="center" valign="top">
-        <h4>🚀 DevOps, Cloud & Tooling</h4>
+        <h4>�️ Tooling</h4>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify&theme=dark" alt="DevOps & Tools" />
         </a>
@@ -330,6 +332,7 @@ const mathesh: DeveloperProfile = {
 <!-- ==================================================================== -->
 
 <span id="projects"></span>
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -501,6 +504,7 @@ const mathesh: DeveloperProfile = {
 <!-- ==================================================================== -->
 
 <span id="github-stats"></span>
+
 ## 📊 GitHub Metrics & Insights
 
 <div align="center">
@@ -559,6 +563,7 @@ const mathesh: DeveloperProfile = {
 <!-- ==================================================================== -->
 
 <span id="leetcode"></span>
+
 ## 🧠 LeetCode & Problem Solving
 
 <div align="center">
@@ -647,6 +652,7 @@ const mathesh: DeveloperProfile = {
 <!-- ==================================================================== -->
 
 <span id="contact"></span>
+
 ## 📫 Let's Connect & Collaborate!
 
 <div align="center">

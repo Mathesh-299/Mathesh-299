@@ -8,7 +8,7 @@
 
   <!-- DYNAMIC TYPING SVG -->
   <a href="https://github.com/Mathesh-299">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=780&height=50&lines=👋+Hello+World!+I'm+Mathesh+Murugan;💻+Full+Stack+MERN+Developer+%26+Software+Engineer;⚡+Crafting+Scalable+Backends+%26+Glassmorphic+UIs;🧠+Solved+DSA+Problems+Daily+on+LeetCode;🚀+Open+to+Opportunities%2C+Collaborations+%26+Hackathons" alt="Typing SVG Animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=780&height=60&lines=Hey%20there!%20I'm%20Mathesh%20Murugan%20%F0%9F%91%8B;Full%20Stack%20MERN%20Developer%20%26%20Software%20Engineer%20%F0%9F%92%BB;Crafting%20Scalable%20Backends%20%26%20Glassmorphic%20UIs%20%E2%9A%A1;Solving%20DSA%20Problems%20Daily%20on%20LeetCode%20%F0%9F%A7%A0;Open%20to%20Collaborations%2C%20Full-Time%20Roles%20%26%20Projects%20%F0%9F%9A%80" alt="Typing SVG Animation"/>
   </a>
 
   <br/><br/>

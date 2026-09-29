@@ -194,12 +194,37 @@ const mathesh: DeveloperProfile = {
 
 <div align="center">
 
-  <!-- SKILL ICONS SHOWCASE -->
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,mysql,tailwind,html,css,git,github,vscode,postman,vercel" alt="Tech Skills Icons" />
-    </a>
-  </p>
+  <!-- TOP-LEVEL CATEGORIZED SKILL DOCK -->
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <h4>💻 Languages & Fundamentals</h4>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=c,java,js,ts,html,css&theme=dark" alt="Languages & Fundamentals" />
+        </a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <h4>🌐 Modern Frontend & UI</h4>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,vite&theme=dark" alt="Frontend & UI" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <h4>⚙️ Backend Architecture & DB</h4>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend & DB" />
+        </a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <h4>🚀 DevOps, Cloud & Tooling</h4>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify&theme=dark" alt="DevOps & Tools" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
   <br/>
 
@@ -226,6 +251,7 @@ const mathesh: DeveloperProfile = {
         <td><b>🌐 Frontend Development</b></td>
         <td>
           <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
           <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>
           <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>

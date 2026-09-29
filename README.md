@@ -11,7 +11,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=780&height=60&lines=Hey%20there!%20I'm%20Mathesh%20Murugan%20%F0%9F%91%8B;Full%20Stack%20MERN%20Developer%20%26%20Software%20Engineer%20%F0%9F%92%BB;Crafting%20Scalable%20Backends%20%26%20Glassmorphic%20UIs%20%E2%9A%A1;Solving%20DSA%20Problems%20Daily%20on%20LeetCode%20%F0%9F%A7%A0;Open%20to%20Collaborations%2C%20Full-Time%20Roles%20%26%20Projects%20%F0%9F%9A%80" alt="Typing SVG Animation"/>
   </a>
 
-  <br/><br/>
+<br/><br/>
 
   <!-- QUICK NAVIGATION PILLS -->
   <p>
@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
   </a>
 
-  <br/><br/>
+<br/><br/>
 
   <!-- METRIC BADGES -->
   <img src="https://komarev.com/ghpvc/?username=Mathesh-299&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views"/>
@@ -64,6 +64,7 @@
 <!-- ==================================================================== -->
 <!-- 🧑‍💻 ABOUT ME SECTION -->
 <!-- ==================================================================== -->
+
 ## 🧑‍💻 About Me
 
 <div align="center">
@@ -103,29 +104,60 @@
 
 ```typescript
 const mathesh: DeveloperProfile = {
-  name             : "Mathesh Murugan",
-  title            : "Full Stack Engineer (MERN)",
-  location         : "Coimbatore, India 🇮🇳",
-  academicDegree   : "B.Tech. Information Technology",
-  primaryFocus     : ["High-Scale MERN Apps", "RESTful API Engineering", "Clean System Architecture"],
+  name: "Mathesh Murugan",
+  title: "Full Stack Engineer (MERN)",
+  location: "Coimbatore, India 🇮🇳",
+  academicDegree: "B.Tech. Information Technology",
+  primaryFocus: [
+    "High-Scale MERN Apps",
+    "RESTful API Engineering",
+    "Clean System Architecture",
+  ],
 
   techStack: {
-    languages      : ["JavaScript (ES6+)", "TypeScript", "Java", "C", "SQL"],
-    frontend       : ["React.js", "Redux Toolkit", "Next.js", "Tailwind CSS", "HTML5", "CSS3", "Framer Motion"],
-    backend        : ["Node.js", "Express.js", "REST APIs", "JWT", "Bcrypt", "Nodemailer", "WebSockets"],
-    databases      : ["MongoDB & Mongoose", "MySQL"],
-    devOpsAndCloud : ["Git", "GitHub Actions", "Vercel", "Render", "Netlify", "Postman"],
+    languages: ["JavaScript (ES6+)", "TypeScript", "Java", "C", "SQL"],
+    frontend: [
+      "React.js",
+      "Redux Toolkit",
+      "Next.js",
+      "Tailwind CSS",
+      "HTML5",
+      "CSS3",
+      "Framer Motion",
+    ],
+    backend: [
+      "Node.js",
+      "Express.js",
+      "REST APIs",
+      "JWT",
+      "Bcrypt",
+      "Nodemailer",
+      "WebSockets",
+    ],
+    databases: ["MongoDB & Mongoose", "MySQL"],
+    devOpsAndCloud: [
+      "Git",
+      "GitHub Actions",
+      "Vercel",
+      "Render",
+      "Netlify",
+      "Postman",
+    ],
   },
 
-  currentPursuits  : [
+  currentPursuits: [
     "⚡ Scaling backend throughput and database index optimization",
     "☁️ Cloud computing, containerization & CI/CD deployment pipelines",
     "🧠 Sharpening DSA problem-solving techniques daily on LeetCode",
     "🤖 Integrating generative AI and intelligent agent APIs into web apps",
   ],
 
-  funFact          : "I debug with console.log and I'm proud of it 😄",
-  openTo           : ["Full-Time Roles", "Software Engineer Internships", "Open-Source Collaborations"],
+  funFact: "I debug with console.log and I'm proud of it 😄",
+  openTo: [
+    "Full-Time Roles",
+    "Software Engineer Internships",
+    "Open-Source Collaborations",
+  ],
 };
 ```
 
@@ -138,6 +170,7 @@ const mathesh: DeveloperProfile = {
 <!-- ==================================================================== -->
 <!-- 🛠️ TECH STACK & ARSENAL -->
 <!-- ==================================================================== -->
+
 ## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
@@ -227,18 +260,19 @@ const mathesh: DeveloperProfile = {
 <!-- ==================================================================== -->
 <!-- 📈 SKILL PROFICIENCY MATRIX -->
 <!-- ==================================================================== -->
+
 ## 📈 Skill Proficiency Matrix
 
 <div align="center">
 
-| Core Competency | Focus Technologies | Proficiency Level | Status |
-| :--- | :--- | :---: | :---: |
-| **JavaScript / TypeScript** | ES6+, Async/Await, DOM, Type Safety | `████████████████████` 92% | ![Mastery](https://img.shields.io/badge/Advanced-58a6ff?style=flat-square) |
-| **Backend & API Design** | Node.js, Express, REST APIs, JWT, Middleware | `██████████████████░░` 90% | ![Mastery](https://img.shields.io/badge/Advanced-58a6ff?style=flat-square) |
-| **Frontend Engineering** | React 18, Redux Toolkit, Tailwind CSS, Hooks | `██████████████████░░` 88% | ![Mastery](https://img.shields.io/badge/Advanced-58a6ff?style=flat-square) |
-| **Database Architecture** | MongoDB, Mongoose Schemas, Indexing, MySQL | `█████████████████░░░` 85% | ![Proficient](https://img.shields.io/badge/Proficient-1f6feb?style=flat-square) |
-| **DSA & Problem Solving** | Arrays, Trees, Dynamic Programming, Graphs | `████████████████░░░░` 80% | ![Proficient](https://img.shields.io/badge/Proficient-1f6feb?style=flat-square) |
-| **DevOps & Cloud Hosting** | Git Workflows, Vercel, Render, CI/CD, Netlify | `███████████████░░░░░` 75% | ![Competent](https://img.shields.io/badge/Competent-388bfd?style=flat-square) |
+| Core Competency             | Focus Technologies                            |     Proficiency Level      |                                     Status                                      |
+| :-------------------------- | :-------------------------------------------- | :------------------------: | :-----------------------------------------------------------------------------: |
+| **JavaScript / TypeScript** | ES6+, Async/Await, DOM, Type Safety           | `████████████████████` 92% |   ![Mastery](https://img.shields.io/badge/Advanced-58a6ff?style=flat-square)    |
+| **Backend & API Design**    | Node.js, Express, REST APIs, JWT, Middleware  | `██████████████████░░` 90% |   ![Mastery](https://img.shields.io/badge/Advanced-58a6ff?style=flat-square)    |
+| **Frontend Engineering**    | React 18, Redux Toolkit, Tailwind CSS, Hooks  | `██████████████████░░` 88% |   ![Mastery](https://img.shields.io/badge/Advanced-58a6ff?style=flat-square)    |
+| **Database Architecture**   | MongoDB, Mongoose Schemas, Indexing, MySQL    | `█████████████████░░░` 85% | ![Proficient](https://img.shields.io/badge/Proficient-1f6feb?style=flat-square) |
+| **DSA & Problem Solving**   | Arrays, Trees, Dynamic Programming, Graphs    | `████████████████░░░░` 80% | ![Proficient](https://img.shields.io/badge/Proficient-1f6feb?style=flat-square) |
+| **DevOps & Cloud Hosting**  | Git Workflows, Vercel, Render, CI/CD, Netlify | `███████████████░░░░░` 75% |  ![Competent](https://img.shields.io/badge/Competent-388bfd?style=flat-square)  |
 
 </div>
 
@@ -249,6 +283,7 @@ const mathesh: DeveloperProfile = {
 <!-- ==================================================================== -->
 <!-- 🚀 FEATURED PROJECTS SHOWCASE -->
 <!-- ==================================================================== -->
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -418,6 +453,7 @@ const mathesh: DeveloperProfile = {
 <!-- ==================================================================== -->
 <!-- 📊 GITHUB METRICS & INSIGHTS -->
 <!-- ==================================================================== -->
+
 ## 📊 GitHub Metrics & Insights
 
 <div align="center">
@@ -474,6 +510,7 @@ const mathesh: DeveloperProfile = {
 <!-- ==================================================================== -->
 <!-- 🧠 LEETCODE & PROBLEM SOLVING -->
 <!-- ==================================================================== -->
+
 ## 🧠 LeetCode & Problem Solving
 
 <div align="center">
@@ -486,14 +523,14 @@ const mathesh: DeveloperProfile = {
     <img src="https://leetcard.jacoblin.cool/matheshm29?theme=dark&font=JetBrains+Mono&ext=contest&width=520" alt="Mathesh's LeetCode Stats Card"/>
   </a>
 
-  <br/><br/>
+<br/><br/>
 
   <!-- LEETCODE FOCUS BADGES -->
   <img src="https://img.shields.io/badge/Data_Structures-Arrays%20%7C%20Strings%20%7C%20Linked%20Lists-58a6ff?style=for-the-badge&logo=leetcode&logoColor=white" alt="Data Structures Focus"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Algorithms-Trees%20%7C%20Graphs%20%7C%20DP%20%7C%20Binary%20Search-1f6feb?style=for-the-badge&logoColor=white" alt="Algorithms Focus"/>
 
-  <br/><br/>
+<br/><br/>
 
   <a href="https://leetcode.com/u/matheshm29/">
     <img src="https://img.shields.io/badge/View%20Full%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode Profile"/>
@@ -508,6 +545,7 @@ const mathesh: DeveloperProfile = {
 <!-- ==================================================================== -->
 <!-- 🐍 CONTRIBUTION SNAKE ANIMATION -->
 <!-- ==================================================================== -->
+
 ## 🐍 Contribution Activity Graph
 
 <div align="center">
@@ -525,13 +563,14 @@ const mathesh: DeveloperProfile = {
 <!-- ==================================================================== -->
 <!-- 🌱 CURRENT FOCUS & WORKFLOW -->
 <!-- ==================================================================== -->
+
 ## 🌱 What I'm Up To Right Now
 
 <div align="center">
 
-| 🔭 Actively Building | 📚 Currently Learning | 💬 Ask Me About | ⚡ Fun Developer Fact |
-| :--- | :--- | :--- | :--- |
-| **Turf Hub & Finance Tracker** enhancements with caching & analytics | **Cloud (AWS), System Design & Microservices** | **MERN Stack, REST APIs, JWT, Auth flows** | *I once spent 6 straight hours debugging a missing CSS semicolon 😅* |
+| 🔭 Actively Building                                                 | 📚 Currently Learning                          | 💬 Ask Me About                            | ⚡ Fun Developer Fact                                                |
+| :------------------------------------------------------------------- | :--------------------------------------------- | :----------------------------------------- | :------------------------------------------------------------------- |
+| **Turf Hub & Finance Tracker** enhancements with caching & analytics | **Cloud (AWS), System Design & Microservices** | **MERN Stack, REST APIs, JWT, Auth flows** | _I once spent 6 straight hours debugging a missing CSS semicolon 😅_ |
 
 </div>
 
@@ -542,6 +581,7 @@ const mathesh: DeveloperProfile = {
 <!-- ==================================================================== -->
 <!-- 💭 DEV QUOTE -->
 <!-- ==================================================================== -->
+
 ## 💭 Dev Inspiration
 
 <div align="center">
@@ -557,6 +597,7 @@ const mathesh: DeveloperProfile = {
 <!-- ==================================================================== -->
 <!-- 📫 LET'S CONNECT & COLLABORATE -->
 <!-- ==================================================================== -->
+
 ## 📫 Let's Connect & Collaborate!
 
 <div align="center">
@@ -587,11 +628,11 @@ const mathesh: DeveloperProfile = {
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="38" alt="GitHub"/>
   </a>
 
-  <br/><br/>
+<br/><br/>
 
   <img src="https://img.shields.io/badge/✨%20Open%20to%20Full--Time%20Roles%20%7C%20Internships%20%7C%20Freelance-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Open to opportunities"/>
 
-  <br/><br/>
+<br/><br/>
 
   <blockquote>
     <i>"Code is like humor. When you have to explain it, it's bad."</i> — <b>Cory House</b>

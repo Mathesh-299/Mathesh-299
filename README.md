@@ -312,14 +312,14 @@ const mathesh: DeveloperProfile = {
 
 <div align="center">
 
-| Core Competency             | Focus Technologies                            |     Proficiency Level      |                                     Status                                      |
-| :-------------------------- | :-------------------------------------------- | :------------------------: | :-----------------------------------------------------------------------------: |
-| **JavaScript / TypeScript** | ES6+, Async/Await, DOM, Type Safety           | `████████████████████` 92% |   ![Mastery](https://img.shields.io/badge/Advanced-58a6ff?style=flat-square)    |
-| **Backend & API Design**    | Node.js, Express, REST APIs, JWT, Middleware  | `██████████████████░░` 90% |   ![Mastery](https://img.shields.io/badge/Advanced-58a6ff?style=flat-square)    |
-| **Frontend Engineering**    | React 18, Redux Toolkit, Tailwind CSS, Hooks  | `██████████████████░░` 88% |   ![Mastery](https://img.shields.io/badge/Advanced-58a6ff?style=flat-square)    |
-| **Database Architecture**   | MongoDB, Mongoose Schemas, Indexing, MySQL    | `█████████████████░░░` 85% | ![Proficient](https://img.shields.io/badge/Proficient-1f6feb?style=flat-square) |
-| **DSA & Problem Solving**   | Arrays, Trees, Dynamic Programming, Graphs    | `████████████████░░░░` 80% | ![Proficient](https://img.shields.io/badge/Proficient-1f6feb?style=flat-square) |
-| **DevOps & Cloud Hosting**  | Git Workflows, Vercel, Render, CI/CD, Netlify | `███████████████░░░░░` 75% |  ![Competent](https://img.shields.io/badge/Competent-388bfd?style=flat-square)  |
+| Core Competency             | Focus Technologies                           |     Proficiency Level      |                                     Status                                      |
+| :-------------------------- | :------------------------------------------- | :------------------------: | :-----------------------------------------------------------------------------: |
+| **JavaScript / TypeScript** | ES6+, Async/Await, DOM, Type Safety          | `████████████████████` 92% |   ![Mastery](https://img.shields.io/badge/Advanced-58a6ff?style=flat-square)    |
+| **Backend & API Design**    | Node.js, Express, REST APIs, JWT, Middleware | `██████████████████░░` 90% |   ![Mastery](https://img.shields.io/badge/Advanced-58a6ff?style=flat-square)    |
+| **Frontend Engineering**    | React 18, Redux Toolkit, Tailwind CSS, Hooks | `██████████████████░░` 88% |   ![Mastery](https://img.shields.io/badge/Advanced-58a6ff?style=flat-square)    |
+| **Database Architecture**   | MongoDB, Mongoose Schemas, Indexing, MySQL   | `█████████████████░░░` 85% | ![Proficient](https://img.shields.io/badge/Proficient-1f6feb?style=flat-square) |
+| **DSA & Problem Solving**   | Arrays, Trees, Dynamic Programming, Graphs   | `████████████████░░░░` 80% | ![Proficient](https://img.shields.io/badge/Proficient-1f6feb?style=flat-square) |
+| **DevOps & Cloud Hosting**  | Git Workflows, Vercel, Render, Netlify       | `███████████████░░░░░` 75% |  ![Competent](https://img.shields.io/badge/Competent-388bfd?style=flat-square)  |
 
 </div>
 

@@ -8,19 +8,36 @@
 
   <!-- DYNAMIC TYPING SVG -->
   <a href="https://github.com/Mathesh-299">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=780&height=60&lines=Hey%20there!%20I'm%20Mathesh%20Murugan%20%F0%9F%91%8B;Full%20Stack%20MERN%20Developer%20%26%20Software%20Engineer%20%F0%9F%92%BB;Crafting%20Scalable%20Backends%20%26%20Glassmorphic%20UIs%20%E2%9A%A1;Solving%20DSA%20Problems%20Daily%20on%20LeetCode%20%F0%9F%A7%A0;Open%20to%20Collaborations%2C%20Full-Time%20Roles%20%26%20Projects%20%F0%9F%9A%80" alt="Typing SVG Animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=780&height=60&lines=Hey%20there!%20I'm%20Mathesh%20M%20%F0%9F%91%8B;Full%20Stack%20MERN%20Developer%20%26%20Software%20Engineer%20%F0%9F%92%BB;Crafting%20Scalable%20Backends%20%26%20Glassmorphic%20UIs%20%E2%9A%A1;Solving%20DSA%20Problems%20Daily%20on%20LeetCode%20%F0%9F%A7%A0;Open%20to%20Collaborations%2C%20Full-Time%20Roles%20%26%20Projects%20%F0%9F%9A%80" alt="Typing SVG Animation"/>
   </a>
 
 <br/><br/>
 
-  <!-- QUICK NAVIGATION PILLS -->
-  <p>
-    <a href="#-about-me"><b>🧑‍💻 About</b></a> &nbsp;•&nbsp;
-    <a href="#-tech-stack--arsenal"><b>🛠️ Tech Stack</b></a> &nbsp;•&nbsp;
-    <a href="#-featured-projects"><b>🚀 Projects</b></a> &nbsp;•&nbsp;
-    <a href="#-github-metrics--insights"><b>📊 GitHub Stats</b></a> &nbsp;•&nbsp;
-    <a href="#-leetcode-performance"><b>🧠 LeetCode</b></a> &nbsp;•&nbsp;
-    <a href="#-lets-connect"><b>📫 Contact</b></a>
+  <!-- QUICK NAVIGATION PILL BAR -->
+  <p align="center">
+    <a href="#about">
+      <img src="https://img.shields.io/badge/%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20About%20Me-0078D4?style=for-the-badge&logoColor=white" alt="About Me"/>
+    </a>
+    &nbsp;
+    <a href="#tech-stack">
+      <img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack-06b6d4?style=for-the-badge&logoColor=white" alt="Tech Stack"/>
+    </a>
+    &nbsp;
+    <a href="#projects">
+      <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Projects-8b5cf6?style=for-the-badge&logoColor=white" alt="Featured Projects"/>
+    </a>
+    &nbsp;
+    <a href="#github-stats">
+      <img src="https://img.shields.io/badge/%F0%9F%93%8A%20GitHub%20Stats-3b82f6?style=for-the-badge&logoColor=white" alt="GitHub Stats"/>
+    </a>
+    &nbsp;
+    <a href="#leetcode">
+      <img src="https://img.shields.io/badge/%F0%9F%A7%A0%20LeetCode-FFA116?style=for-the-badge&logoColor=black" alt="LeetCode"/>
+    </a>
+    &nbsp;
+    <a href="#contact">
+      <img src="https://img.shields.io/badge/%F0%9F%93%AC%20Contact-10b981?style=for-the-badge&logoColor=white" alt="Contact"/>
+    </a>
   </p>
 
   <br/>
@@ -65,6 +82,7 @@
 <!-- 🧑‍💻 ABOUT ME SECTION -->
 <!-- ==================================================================== -->
 
+<span id="about"></span>
 ## 🧑‍💻 About Me
 
 <div align="center">
@@ -171,6 +189,7 @@ const mathesh: DeveloperProfile = {
 <!-- 🛠️ TECH STACK & ARSENAL -->
 <!-- ==================================================================== -->
 
+<span id="tech-stack"></span>
 ## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
@@ -284,6 +303,7 @@ const mathesh: DeveloperProfile = {
 <!-- 🚀 FEATURED PROJECTS SHOWCASE -->
 <!-- ==================================================================== -->
 
+<span id="projects"></span>
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -454,6 +474,7 @@ const mathesh: DeveloperProfile = {
 <!-- 📊 GITHUB METRICS & INSIGHTS -->
 <!-- ==================================================================== -->
 
+<span id="github-stats"></span>
 ## 📊 GitHub Metrics & Insights
 
 <div align="center">
@@ -511,6 +532,7 @@ const mathesh: DeveloperProfile = {
 <!-- 🧠 LEETCODE & PROBLEM SOLVING -->
 <!-- ==================================================================== -->
 
+<span id="leetcode"></span>
 ## 🧠 LeetCode & Problem Solving
 
 <div align="center">
@@ -568,8 +590,8 @@ const mathesh: DeveloperProfile = {
 
 <div align="center">
 
-| 🔭 Actively Building | 📚 Currently Learning | 💬 Ask Me About | ⚡ Fun Developer Fact |
-| :--- | :--- | :--- | :--- |
+| 🔭 Actively Building                                                 | 📚 Currently Learning                        | 💬 Ask Me About                            | ⚡ Fun Developer Fact                                                |
+| :------------------------------------------------------------------- | :------------------------------------------- | :----------------------------------------- | :------------------------------------------------------------------- |
 | **Turf Hub & Finance Tracker** enhancements with caching & analytics | **Cloud Architecture (AWS) & System Design** | **MERN Stack, REST APIs, JWT, Auth flows** | _I once spent 6 straight hours debugging a missing CSS semicolon 😅_ |
 
 </div>
@@ -598,6 +620,7 @@ const mathesh: DeveloperProfile = {
 <!-- 📫 LET'S CONNECT & COLLABORATE -->
 <!-- ==================================================================== -->
 
+<span id="contact"></span>
 ## 📫 Let's Connect & Collaborate!
 
 <div align="center">

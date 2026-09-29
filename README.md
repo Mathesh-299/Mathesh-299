@@ -568,9 +568,9 @@ const mathesh: DeveloperProfile = {
 
 <div align="center">
 
-| 🔭 Actively Building                                                 | 📚 Currently Learning                          | 💬 Ask Me About                            | ⚡ Fun Developer Fact                                                |
-| :------------------------------------------------------------------- | :--------------------------------------------- | :----------------------------------------- | :------------------------------------------------------------------- |
-| **Turf Hub & Finance Tracker** enhancements with caching & analytics | **Cloud (AWS), System Design & Microservices** | **MERN Stack, REST APIs, JWT, Auth flows** | _I once spent 6 straight hours debugging a missing CSS semicolon 😅_ |
+| 🔭 Actively Building | 📚 Currently Learning | 💬 Ask Me About | ⚡ Fun Developer Fact |
+| :--- | :--- | :--- | :--- |
+| **Turf Hub & Finance Tracker** enhancements with caching & analytics | **Cloud Architecture (AWS) & System Design** | **MERN Stack, REST APIs, JWT, Auth flows** | _I once spent 6 straight hours debugging a missing CSS semicolon 😅_ |
 
 </div>
 
